@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**diegovarias/diegovarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer passionate about web and software. I work mostly with Laravel for the development and maintenance of web applications. I love writing code and learning new things about this beautiful and complex world 🚀
 
-Here are some ideas to get you started:
+I love web development and it's the area I work in, but I'm interested in mobile development, desktop development and any interface that exists because of the code. The code is wonderful, we can create amazing things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my personal GitHub where I work on projects to improve my skills and to share with the world. Welcome!
+
+Twitter: [@diegovarias](https://twitter.com/diegovarias)
+
+Instagram: [@diegovarias](https://instagram.com/diegovarias)
+
+Linkedin: https://www.linkedin.com/in/diegovarias/
