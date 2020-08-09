@@ -10,4 +10,4 @@ Twitter: [@diegovarias](https://twitter.com/diegovarias)
 
 Instagram: [@diegovarias](https://instagram.com/diegovarias)
 
-Linkedin: https://www.linkedin.com/in/diegovarias/
+LinkedIn: https://www.linkedin.com/in/diegovarias/
